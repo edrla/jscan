@@ -14,4 +14,4 @@ Custom port range: jscan <ipv4-address> <start-port> <end-port>
 ```
 
 ## Build
-A prebuild `jscan-1.0-jar` file is given in the `jscan/bin` directory. To build this file oneself, download the Maven project and run `mvn clean package`.
+A prebuilt `jscan-1.0-jar` file is given in the `jscan/bin` directory. To build this file oneself, download the Maven project and run `mvn clean package`.
