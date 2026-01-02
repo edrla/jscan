@@ -1,4 +1,4 @@
-package io.github.edrla;
+package io.github.edrla.jscan;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

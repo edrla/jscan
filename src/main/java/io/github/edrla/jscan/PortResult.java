@@ -1,4 +1,4 @@
-package io.github.edrla;
+package io.github.edrla.jscan;
 
 record PortResult(int port, boolean isOpen) {
 

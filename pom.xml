@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>io.github.edrla.Main</mainClass>
+                            <mainClass>io.github.edrla.jscan.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
